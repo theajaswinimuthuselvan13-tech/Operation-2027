@@ -3,7 +3,7 @@ public class Armstrongnumber {
   public   static void main(String[] args) {
       Scanner sc= new Scanner(System.in);
       int n =sc.nextInt();
-      System.out.println(armstrong(n));
+      System.out.println("3-digit armstrong number "+armstrong(n));
 
     }
     static boolean armstrong(int num){
