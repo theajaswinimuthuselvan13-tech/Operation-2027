@@ -2,7 +2,7 @@ import java.util.*;
 public class LinearSearch {
      public static void main(String[] args) {
          int [] nums = {1,14,19,-3,24,43};
-         int target=114;
+         int target=19;
          int ans=linearSearch(nums,target);
          System.out.println(ans);
     }
