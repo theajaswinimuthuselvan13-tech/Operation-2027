@@ -2,7 +2,7 @@ import java.util.*;
 public class Linearsearchinstr {
   public  static void main(String[] args) {
       String str = "Theaju";
-      char target = 'z';
+      char target = 'e';
       System.out.println((search(str,target)));
 
     }
